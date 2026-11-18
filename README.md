@@ -1,1 +1,1 @@
-<img width="1320" height="2868" alt="APP UI Start" src="https://github.com/user-attachments/assets/2fd97f63-4487-4743-8ebc-88e7d86b30cf" />
+<img width="1392" height="527" alt="image" src="https://github.com/user-attachments/assets/322d6835-93bc-40e3-8e2f-ffa2c6a59d7e" />
